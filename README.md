@@ -1,17 +1,59 @@
-# BD_Call_Center_Marzo_2023
+# Dashboard de Call Center - Marzo 2023
 
-Base de datos de un Call Center con registros del mes de marzo del 2023. 
-Incluyen el ID de llamada, Fecha, Asistente, Área, si el llamado fue resuelto o no, Velocidad de Respuesta, Duración de la Llamada, Duración con Asitente en Segundos e índice de Satisfacción. 
+Este proyecto presenta un análisis detallado de los registros de llamadas de un Call Center durante el mes de marzo de 2023. Los datos incluyen el ID de llamada, fecha, asistente, área, estado de resolución del llamado, velocidad de respuesta, duración de la llamada, duración con asistente en segundos e índice de satisfacción.
 
-Con estos datos realicé un análisis para determinar:
-Qué área recibe mayor cantidad de llamados
-Cual es el asistente con mayor velocidad de respuesta 
-Satisfacción promedio
-Área con mayor y menor satisfacción de cliente
-Asistente con mayor y menor satisfacción de cliente
-Cantidad de llamados resueltos y no resueltos
-Qué asistente tiene mayor y menor cantidad de llamados resueltos
-Qué día a la semana se reciben mayor cantidad de llamados y de que tipo
-La cantidad de clientes y llamados 
+# Objetivos del Análisis
+Este análisis permite identificar áreas de mejora en cuanto a la calidad de las llamadas, la satisfacción del cliente y las áreas que requieren mayor atención. Los resultados obtenidos ayudarán a optimizar el rendimiento del Call Center y a mejorar la experiencia del cliente.
 
-Con este análisis prodré determinar las áreas a mejorar en cuanto a calidad de llamado, satisfacción al cliente, áreas en las que se necesita mayor atención
+# Análisis Realizado
+El análisis se enfocó en responder las siguientes preguntas:
+
+¿Qué área recibe la mayor cantidad de llamados?
+¿Cuál es el asistente con mayor velocidad de respuesta?
+¿Cuál es la satisfacción promedio del cliente?
+¿Qué área tiene la mayor y menor satisfacción del cliente?
+¿Qué asistente tiene la mayor y menor satisfacción del cliente?
+¿Cuál es la cantidad de llamados resueltos y no resueltos?
+¿Qué asistente tiene la mayor y menor cantidad de llamados resueltos?
+¿Qué día de la semana se recibe la mayor cantidad de llamados y de qué tipo?
+¿Cuál es la cantidad total de clientes y llamados?
+
+# Limpieza de Datos en Power Query
+Verificación y Modificación de Tipos de Datos: Se ajustaron los tipos de datos correspondientes a cada columna para asegurar la correcta interpretación de los datos.
+Corrección de Palabras en la Columna "Área": Se corrigieron errores y inconsistencias en los nombres de las áreas para estandarizar la información.
+Eliminación de Columnas Innecesarias: Se eliminaron columnas que no eran relevantes para el análisis, reduciendo el tamaño del archivo y mejorando el rendimiento.
+
+# Tabla Calendario y Conexión a la Tabla Principal
+Se creó una tabla calendario para facilitar el análisis temporal y se conectó a la tabla principal del modelo de datos, permitiendo la visualización de métricas y KPIs a lo largo del mes.
+
+# Medidas DAX :
+- Cantidad de clientes
+- Cantidad de llamados
+- Satisfacción promedio
+- Promedio de velocidad de respuesta
+- Promedio de duracion de llamada 
+
+# Tarjetas del Dashboard
+Clientes: Cantidad total de clientes.
+Llamados: Total de llamadas recibidas.
+Satisfacción Promedio: Promedio de la satisfacción del cliente.
+Velocidad de Respuesta en Segundos: Tiempo promedio de respuesta.
+Duración de la Llamada en Segundos: Tiempo promedio de duración de las llamadas.
+
+# Gráficos del Dashboard
+
+1- Cantidad y Porcentaje de Llamados Resueltos y No Resueltos
+
+Muestra la distribución de llamados resueltos frente a no resueltos, tanto en cantidad como en porcentaje.
+
+2- Cantidad de Llamados por Agentes
+
+Representa el número de llamadas atendidas por cada asistente.
+
+3- Cantidad de Llamados por Áreas
+
+Ilustra la cantidad de llamados recibidos por cada área del Call Center.
+
+4- Cantidad de Llamados por Día
+
+Visualiza la cantidad de llamados recibidos cada día de la semana.
