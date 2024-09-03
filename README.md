@@ -1,4 +1,4 @@
-# Dashboard de Call Center - Marzo 2023
+# Análisis de Call Center - Marzo 2023 📞
 
 ### Este proyecto presenta un análisis detallado de los registros de llamadas de un Call Center durante el mes de marzo de 2023. Los datos incluyen el ID de llamada, fecha, asistente, área, estado de resolución del llamado, velocidad de respuesta, duración de la llamada, duración con asistente en segundos e índice de satisfacción.
 
@@ -59,7 +59,7 @@ Se creó una tabla calendario para facilitar el análisis temporal y se conectó
 
 #### 5- Promedio de duracion de llamada 
 
-# 📂 Tarjetas del Dashboard
+# 🔲 Tarjetas del Dashboard
 
 #### **1- Clientes:** 
 
