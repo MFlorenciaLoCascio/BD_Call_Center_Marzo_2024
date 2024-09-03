@@ -2,7 +2,7 @@
 
 ### Este proyecto presenta un análisis detallado de los registros de llamadas de un Call Center durante el mes de marzo de 2023. Los datos incluyen el ID de llamada, fecha, asistente, área, estado de resolución del llamado, velocidad de respuesta, duración de la llamada, duración con asistente en segundos e índice de satisfacción.
 
-### 💻 Puede visualizar el dashboard: [Reporting Call Center](LINK)
+### 💻 Puede visualizar el dashboard: [Reporting Call Center](https://app.powerbi.com/view?r=eyJrIjoiNmZkMDE0YTItZTgwMS00MWY4LWI3ZWItNzRkMmU1YmFmZDZkIiwidCI6IjdmMmY3MDM3LTljNjMtNDY3Ni04YzRkLWNjZjgyZDZhZjVlMyIsImMiOjR9&pageName=92693618d0e502c8ca9d)
 
 # 🎯 Objetivos del Análisis
 
@@ -99,7 +99,7 @@ Ilustra la cantidad de llamados recibidos por cada área del Call Center.
 Visualiza la cantidad de llamados recibidos cada día de la semana.
 
 # 💻 DASHBOARD: 
-[Reporting Call Center](LINK)
+[Reporting Call Center](https://app.powerbi.com/view?r=eyJrIjoiNmZkMDE0YTItZTgwMS00MWY4LWI3ZWItNzRkMmU1YmFmZDZkIiwidCI6IjdmMmY3MDM3LTljNjMtNDY3Ni04YzRkLWNjZjgyZDZhZjVlMyIsImMiOjR9&pageName=92693618d0e502c8ca9d)
 ![image](https://github.com/user-attachments/assets/1032913c-b818-4165-9bb5-6530bc04b8af)
 
 ![image](https://github.com/user-attachments/assets/5b4557e1-566b-4f67-9157-225f30bb55b0)
