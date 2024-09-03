@@ -2,14 +2,14 @@
 
 ### Este proyecto presenta un análisis detallado de los registros de llamadas de un Call Center durante el mes de marzo de 2023. Los datos incluyen el ID de llamada, fecha, asistente, área, estado de resolución del llamado, velocidad de respuesta, duración de la llamada, duración con asistente en segundos e índice de satisfacción.
 
-#### Puede visualizar el dashboard: 
+### Puede visualizar el dashboard: 
 
 # Objetivos del Análisis
 
 ### Este análisis permite identificar áreas de mejora en cuanto a la calidad de las llamadas, la satisfacción del cliente y las áreas que requieren mayor atención. Los resultados obtenidos ayudarán a optimizar el rendimiento del Call Center y a mejorar la experiencia del cliente.
 
 # Análisis Realizado
-El análisis se enfocó en responder las siguientes preguntas:
+### El análisis se enfocó en responder las siguientes preguntas:
 
 #### **1-** ¿Qué área recibe la mayor cantidad de llamados?
 
@@ -31,13 +31,20 @@ El análisis se enfocó en responder las siguientes preguntas:
 
 # Limpieza de Datos en Power Query
 
-#### **1- Verificación y Modificación de Tipos de Datos:** Se ajustaron los tipos de datos correspondientes a cada columna para asegurar la correcta interpretación de los datos.
+#### **1- Verificación y Modificación de Tipos de Datos:** 
 
-#### **2- Corrección de Palabras en la Columna "Área":** Se corrigieron errores y inconsistencias en los nombres de las áreas para estandarizar la información.
+Se ajustaron los tipos de datos correspondientes a cada columna para asegurar la correcta interpretación de los datos.
 
-#### **3-Eliminación de Columnas Innecesarias:** Se eliminaron columnas que no eran relevantes para el análisis, reduciendo el tamaño del archivo y mejorando el rendimiento.
+#### **2- Corrección de Palabras en la Columna "Área":** 
+
+Se corrigieron errores y inconsistencias en los nombres de las áreas para estandarizar la información.
+
+#### **3-Eliminación de Columnas Innecesarias:** 
+
+Se eliminaron columnas que no eran relevantes para el análisis, reduciendo el tamaño del archivo y mejorando el rendimiento.
 
 # Tabla Calendario y Conexión a la Tabla Principal
+
 Se creó una tabla calendario para facilitar el análisis temporal y se conectó a la tabla principal del modelo de datos, permitiendo la visualización de métricas y KPIs a lo largo del mes.
 
 # Medidas DAX :
@@ -54,15 +61,25 @@ Se creó una tabla calendario para facilitar el análisis temporal y se conectó
 
 # Tarjetas del Dashboard
 
-#### **Clientes:** Cantidad total de clientes.
+#### **Clientes:** 
 
-#### **Llamados:** Total de llamadas recibidas.
+Cantidad total de clientes.
 
-#### **Satisfacción Promedio:** Promedio de la satisfacción del cliente.
+#### **Llamados:** 
 
-#### **Velocidad de Respuesta en Segundos:** Tiempo promedio de respuesta.
+Total de llamadas recibidas.
 
-#### **Duración de la Llamada en Segundos:** Tiempo promedio de duración de las llamadas.
+#### **Satisfacción Promedio:** 
+
+Promedio de la satisfacción del cliente.
+
+#### **Velocidad de Respuesta en Segundos:** 
+
+Tiempo promedio de respuesta.
+
+#### **Duración de la Llamada en Segundos:** 
+
+Tiempo promedio de duración de las llamadas.
 
 # Gráficos del Dashboard
 
