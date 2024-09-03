@@ -106,50 +106,50 @@ Visualiza la cantidad de llamados recibidos cada día de la semana.
 
 # 📊 Análisis 
 
-#### **1-Área con Mayor Cantidad de Llamados:** 
+### **1-Área con Mayor Cantidad de Llamados:** 
 
 El área de ventas es la que recibe la mayor cantidad de llamados.
 
-#### **2-Asistente con Mayor y Menor Velocidad de Respuesta:**
+### **2-Asistente con Mayor y Menor Velocidad de Respuesta:**
 
 Mayor velocidad de respuesta: Ana S.
 
 Menor velocidad de respuesta: Marcelo F.
 
-#### **3-Satisfacción Promedio del Cliente:**
+### **3-Satisfacción Promedio del Cliente:**
 
 La satisfacción promedio del cliente es de 3.4.
 
-#### **4-Asistente con Mayor y Menor Satisfacción del Cliente:**
+### **4-Asistente con Mayor y Menor Satisfacción del Cliente:**
 
 Menor satisfacción: Juan D. con un puntaje de 2.8.
 
 Mayor satisfacción: Ana S. y Gustavo M.
 
-#### **5-Cantidad de Llamados Resueltos y No Resueltos:**
+### **5-Cantidad de Llamados Resueltos y No Resueltos:**
 
 Llamados resueltos: 114.
 Llamados no resueltos: 28.
 
-#### **6-Asistente con Mayor y Menor Cantidad de Llamados Resueltos:**
+### **6-Asistente con Mayor y Menor Cantidad de Llamados Resueltos:**
 
 Mayor cantidad de llamados resueltos: Juan D. con 169.
 
 Menor cantidad de llamados resueltos: Marcelo F. con 108.
 
-#### **7-Asistente con Mayor y Menor Cantidad de Llamados No Resueltos:**
+### **7-Asistente con Mayor y Menor Cantidad de Llamados No Resueltos:**
 
 Mayor cantidad de llamados no resueltos: Ana S. con 28.
 
 Menor cantidad de llamados no resueltos: Leandro C. con 6.
 
-#### **8-Día de la Semana con Mayor y Menor Cantidad de Llamados:**
+### **8-Día de la Semana con Mayor y Menor Cantidad de Llamados:**
 
 Mayor cantidad de llamados: Jueves, con 186, predominantemente en el área de ventas.
 
 Menor cantidad de llamados: Martes, con 114, también mayoritariamente en el área de ventas (55 llamados).
 
-#### **9-Cantidad Total de Llamados y Clientes:**
+### **9-Cantidad Total de Llamados y Clientes:**
 
 Total de llamados: 1,031.
 
