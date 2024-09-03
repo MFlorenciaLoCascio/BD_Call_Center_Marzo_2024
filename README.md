@@ -99,9 +99,11 @@ Ilustra la cantidad de llamados recibidos por cada área del Call Center.
 
 Visualiza la cantidad de llamados recibidos cada día de la semana.
 
-# DASHBOARD: 
-
+# 💻 DASHBOARD: 
+[Reporting Call Center](LINK)
 ![image](https://github.com/user-attachments/assets/1032913c-b818-4165-9bb5-6530bc04b8af)
 
 ![image](https://github.com/user-attachments/assets/5b4557e1-566b-4f67-9157-225f30bb55b0)
 
+# ⚙️ Herramientas utilizadas:
+Power Bi, DAX, Power Query Figma para la plantilla PBI
