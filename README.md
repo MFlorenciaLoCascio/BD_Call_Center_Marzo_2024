@@ -184,7 +184,7 @@ El jueves es el día con mayor carga de trabajo, lo que podría requerir una pla
 
 ### Alta Tasa de Resolución: 
 
-Con solo 28 llamados no resueltos de 1.031, el Call Center muestra una alta tasa de resolución, aunque los llamados no resueltos parecen estar concentrados en algunos agentes específicos.
+Con solo 78 llamados no resueltos de 1.031, el Call Center muestra una alta tasa de resolución, aunque los llamados no resueltos parecen estar concentrados en algunos agentes específicos.
 
 # ⚙️ Herramientas utilizadas:
 Power Bi, DAX, Power Query Figma para la plantilla PBI
