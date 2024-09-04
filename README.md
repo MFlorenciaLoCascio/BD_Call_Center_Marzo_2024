@@ -1,6 +1,6 @@
-# Análisis de Call Center - Marzo 2023 📞
+# Análisis de Call Center - Marzo 2024 📞
 
-### Este proyecto presenta un análisis detallado de los registros de llamadas de un Call Center durante el mes de marzo de 2023. Los datos incluyen el ID de llamada, fecha, asistente, área, estado de resolución del llamado, velocidad de respuesta, duración de la llamada, duración con asistente en segundos e índice de satisfacción.
+### Este proyecto presenta un análisis detallado de los registros de llamadas de un Call Center durante el mes de marzo de 2024. Los datos incluyen el ID de llamada, fecha, asistente, área, estado de resolución del llamado, velocidad de respuesta, duración de la llamada, duración con asistente en segundos e índice de satisfacción.
 
 ### 💻 Puede visualizar el dashboard: [Reporting Call Center](https://app.powerbi.com/view?r=eyJrIjoiNmZkMDE0YTItZTgwMS00MWY4LWI3ZWItNzRkMmU1YmFmZDZkIiwidCI6IjdmMmY3MDM3LTljNjMtNDY3Ni04YzRkLWNjZjgyZDZhZjVlMyIsImMiOjR9&pageName=92693618d0e502c8ca9d)
 
@@ -100,11 +100,13 @@ Visualiza la cantidad de llamados recibidos cada día de la semana.
 
 # 💻 DASHBOARD: 
 
-### [Reporting Call Center](https://app.powerbi.com/view?r=eyJrIjoiNmZkMDE0YTItZTgwMS00MWY4LWI3ZWItNzRkMmU1YmFmZDZkIiwidCI6IjdmMmY3MDM3LTljNjMtNDY3Ni04YzRkLWNjZjgyZDZhZjVlMyIsImMiOjR9&pageName=92693618d0e502c8ca9d)
+### [Reporting Call Center]()
 
-![image](https://github.com/user-attachments/assets/1032913c-b818-4165-9bb5-6530bc04b8af)
+![image](https://github.com/user-attachments/assets/ef8b74e3-d7e7-4e67-83cd-9861875c5211)
 
-![image](https://github.com/user-attachments/assets/5b4557e1-566b-4f67-9157-225f30bb55b0)
+
+![image](https://github.com/user-attachments/assets/876ed0ee-3a7a-4398-b43c-6580de2f51ba)
+
 
 # 📊 Análisis 
 
@@ -181,7 +183,7 @@ El jueves es el día con mayor carga de trabajo, lo que podría requerir una pla
 
 ### Alta Tasa de Resolución: 
 
-Con solo 28 llamados no resueltos de 1,031, el Call Center muestra una alta tasa de resolución, aunque los llamados no resueltos parecen estar concentrados en algunos agentes específicos.
+Con solo 28 llamados no resueltos de 1.031, el Call Center muestra una alta tasa de resolución, aunque los llamados no resueltos parecen estar concentrados en algunos agentes específicos.
 
 # ⚙️ Herramientas utilizadas:
 Power Bi, DAX, Power Query Figma para la plantilla PBI
