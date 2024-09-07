@@ -98,15 +98,6 @@ Ilustra la cantidad de llamados recibidos por cada área del Call Center.
 
 Visualiza la cantidad de llamados recibidos cada día de la semana.
 
-# 💻 DASHBOARD: 
-
-### [Reporting Call Center](https://app.powerbi.com/view?r=eyJrIjoiYTYyYWI2NjItMDVkOC00M2Y0LWIyNjctMzE2ZWY5Nzg4OWRjIiwidCI6IjdmMmY3MDM3LTljNjMtNDY3Ni04YzRkLWNjZjgyZDZhZjVlMyIsImMiOjR9&pageName=92693618d0e502c8ca9d)
-
-![Captura de pantalla 2024-09-04 104021](https://github.com/user-attachments/assets/8d640f8a-b543-416b-987e-f3f3d8c5201a)
-
-![Captura de pantalla 2024-09-04 104251](https://github.com/user-attachments/assets/187d0e83-b84a-4b1a-8f31-8a76543f7c1c)
-
-
 # 📊 Análisis 
 
 ### **1-Área con Mayor Cantidad de Llamados:** 
