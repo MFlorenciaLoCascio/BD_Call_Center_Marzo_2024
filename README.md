@@ -2,7 +2,7 @@
 
 ### Este proyecto presenta un análisis detallado de los registros de llamadas de un Call Center durante el mes de marzo de 2024. Los datos incluyen el ID de llamada, fecha, asistente, área, estado de resolución del llamado, velocidad de respuesta, duración de la llamada, duración con asistente en segundos e índice de satisfacción.
 
-### 💻 Puede visualizar el dashboard: [Reporting Call Center](https://app.powerbi.com/view?r=eyJrIjoiYjFiM2NmZmEtZjczMy00MzJiLThkZDYtY2Y0ZTkwYzUxOTM5IiwidCI6IjdmMmY3MDM3LTljNjMtNDY3Ni04YzRkLWNjZjgyZDZhZjVlMyIsImMiOjR9&pageName=92693618d0e502c8ca9d)
+### 💻 Puede visualizar el dashboard: [Reporting Call Center](https://app.powerbi.com/view?r=eyJrIjoiZWE4YTE1YjQtZjg5NC00YWM4LThmZDgtNGU0MDViOTU1NDE1IiwidCI6IjdmMmY3MDM3LTljNjMtNDY3Ni04YzRkLWNjZjgyZDZhZjVlMyIsImMiOjR9&pageName=92693618d0e502c8ca9d)
 
 # 🎯 Objetivos del Análisis
 
